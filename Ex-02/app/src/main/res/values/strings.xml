@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CALCULATOR</string>
+    <string name="dot">.</string>
+    <string name="zero">0</string>
+    <string name="equal">=</string>
+
+    <string name="div">/</string>
+    <string name="ce">CE</string>
+    <string name="openBr">(</string>
+
+</resources>
